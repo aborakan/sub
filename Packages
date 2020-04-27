@@ -1,0 +1,32 @@
+
+Version: الاصدار
+Architecture: iphoneos-arm
+Maintainer: اكتب اسمك
+Depends: المتطلبات 
+Conflicts: التعارضات
+Filename: موقع الملف
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
+Section: Tweaks
+Depiction: رابط صفحة الوصف 
+Name: اسم  الاداه 
+
+Package: com.rekosub.istec
+Name: ISTEC
+Version: 2.0.6
+Description: 
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.rekosub.istec_2.0.6_iphoneos-arm.deb
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: Aka
+dev: 
+Homepage: 
+Depiction: https://github.com/aborakan/sub
+Maintainer: 
+Icon: 
